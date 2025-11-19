@@ -1,9 +1,5 @@
-"""
-calculator.py
-- Defines functions used to create a simple calculator
-
-One function per operation, in order.
-"""
+# https://github.com/ksaluj/lab11-KS
+# Krish Saluja
 
 def square_root(a):
     if a < 0:
